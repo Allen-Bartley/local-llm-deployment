@@ -31,7 +31,7 @@ This repository documents the installation, configuration, and experimentation w
 | gemma-2-9b-it                                         | gemma2       | 9B     | Q4_K_M        | 5.76 GB | Clean, technical communication    |
 | llama-3.2-1b-instruct                                 | llama        | 1B     | Q8            | 1.32 GB | Lightweight testing & debugging   |
 
-> LM Studio Total Footprint: ~58.5 GB
+> LM Studio Total Footprint: ~52.5 GB
 
 ### Ollama CLI
 
