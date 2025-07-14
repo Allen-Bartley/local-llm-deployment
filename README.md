@@ -23,7 +23,6 @@ This repository documents the installation, configuration, and experimentation w
 | Model Name                                             | Architecture | Params | Quantization | Size    | Purpose                           |
 |--------------------------------------------------------|--------------|--------|--------------|---------|-----------------------------------|
 | writing-roleplay-20k-context-nemo-12b-v1.0             | llama        | 12B    | Q4_K_S        | 7.12 GB | Longform persona-driven writing   |
-| roleplay-9b-lora-800-porn-i1                           | llama        | 9B     | Q4_K_S        | 5.07 GB | NSFW-enabled dialog exploration   |
 | nemo-12b-humanize-kto-v0.1                             | llama        | 12B    | Q4_K_S        | 7.12 GB | Humanized conversational agent    |
 | pocketdoc_dans-personalityengine-v1.3.0-24b            | llama        | 24B    | Q4_K_S        | 13.55 GB| Complex character emulation       |
 | llama-3.1-8b-lexi-uncensored-v2                        | llama        | 8B     | Q4            | 4.66 GB | Unfiltered model interaction      |
